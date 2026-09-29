@@ -1,0 +1,17 @@
+body {
+    background: linear-gradient(135deg, #fbc2eb, #a6c1ee);
+}
+.weather {
+max-width: 400px;
+margin: 100px auto;
+padding: 30px;
+border-radius: 20px;
+background: white;
+text-align: center;
+box-shadow: 0 5px 20px gray;
+}
+
+#temp {
+font-size: 50px;
+font-weight: bold;
+}
